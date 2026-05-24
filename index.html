@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>EduLuna</title>
+
+  <!-- FONT -->
+  <link
+    rel="preconnect"
+    href="https://fonts.googleapis.com"
+  >
+
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+  >
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+    rel="stylesheet"
+  >
+
+  <!-- CSS -->
+  <link
+    rel="stylesheet"
+    href="style.css"
+  >
+
+</head>
+
+<body>
+
+  <!-- =========================================
+       LAYOUT
+  ========================================== -->
+
+  <div class="layout">
+
+    <!-- =========================================
+         SIDEBAR
+    ========================================== -->
+
+    <aside class="sidebar">
+
+      <!-- LOGO -->
+      <div class="logo">
+
+        <div class="logo-row">
+
+          <img
+            src="assets/logo/logo.png"
+            alt="EduLuna"
+          >
+
+          <div class="logo-text">
+
+            <h1>
+
+              Edu<span>Luna</span>
+
+            </h1>
+
+            <p>
+
+              Direktori Website Edukasi
+
+            </p>
+
+          </div>
+
+        </div>
+
+      </div>
+
+      <!-- MENU -->
+      <nav class="menu">
+
+        <button
+          class="menu-item active"
+          data-category="Semua"
+        >
+          Semua
+        </button>
+
+        <button
+          class="menu-item"
+          data-category="Game Edukasi"
+        >
+          Game Edukasi
+        </button>
+
+        <button
+          class="menu-item"
+          data-category="Kuis Interaktif"
+        >
+          Kuis Interaktif
+        </button>
+
+        <button
+          class="menu-item"
+          data-category="Worksheet"
+        >
+          Worksheet
+        </button>
+
+        <button
+          class="menu-item"
+          data-category="AI Pendidikan"
+        >
+          AI Pendidikan
+        </button>
+
+        <button
+          class="menu-item"
+          data-category="Matematika"
+        >
+          Matematika
+        </button>
+
+        <button
+          class="menu-item"
+          data-category="Bahasa"
+        >
+          Bahasa
+        </button>
+
+        <button
+          class="menu-item"
+          data-category="Coding Anak"
+        >
+          Coding Anak
+        </button>
+
+        <button
+          class="menu-item"
+          data-category="Sains"
+        >
+          Sains
+        </button>
+
+        <button
+          class="menu-item"
+          data-category="Desain"
+        >
+          Desain
+        </button>
+
+      </nav>
+
+    </aside>
+
+    <!-- =========================================
+         MAIN
+    ========================================== -->
+
+    <main class="main">
+
+      <!-- =========================================
+           TOPBAR
+      ========================================== -->
+
+      <div class="topbar">
+
+        <!-- SEARCH -->
+        <div class="search-box">
+
+          <input
+            type="text"
+            id="searchInput"
+            placeholder="Cari website edukasi..."
+          >
+
+        </div>
+
+        <!-- THEME -->
+        <button class="theme-btn">
+
+          🌙
+
+        </button>
+
+      </div>
+
+      <!-- =========================================
+           HERO
+      ========================================== -->
+
+      <section class="hero">
+
+        <div class="hero-left">
+
+          <!-- BADGE -->
+          <span class="badge">
+
+            EduLuna Directory
+
+          </span>
+
+          <!-- TITLE -->
+          <h1>
+
+            Temukan Website Edukasi Digital Modern
+
+          </h1>
+
+          <!-- DESCRIPTION -->
+          <p>
+
+            Kumpulan website edukasi,
+            AI pendidikan,
+            worksheet,
+            coding anak,
+            game belajar,
+            dan sumber belajar modern terbaik.
+
+          </p>
+
+          <!-- STATS -->
+          <div class="hero-stats">
+
+            <div class="stat-box">
+
+              <h3>
+
+                150+
+
+              </h3>
+
+              <span>
+
+                Website Edukasi
+
+              </span>
+
+            </div>
+
+            <div class="stat-box">
+
+              <h3>
+
+                9
+
+              </h3>
+
+              <span>
+
+                Kategori
+
+              </span>
+
+            </div>
+
+            <div class="stat-box">
+
+              <h3>
+
+                Tools Digital
+
+              </h3>
+
+              <span>
+
+                Terbaru
+
+              </span>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <!-- HERO IMAGE -->
+        <img
+          class="hero-image"
+          src="assets/images/hero.png"
+          alt="Hero"
+        >
+
+      </section>
+
+      <!-- =========================================
+           FEATURED
+      ========================================== -->
+
+      <section class="featured-section">
+
+        <div class="section-header">
+
+          <h2>
+
+            Featured Websites
+
+          </h2>
+
+          <p>
+
+            Pilihan website terbaik EduLuna
+
+          </p>
+
+        </div>
+
+        <div
+          class="featured-grid"
+          id="featuredGrid"
+        ></div>
+
+      </section>
+
+      <!-- =========================================
+           WEBSITE CARDS
+      ========================================== -->
+
+      <section
+        class="cards-grid"
+        id="cardsContainer"
+      ></section>
+
+      <!-- =========================================
+           PAGINATION
+      ========================================== -->
+
+      <div
+        class="pagination"
+        id="pagination"
+      ></div>
+
+      <!-- =========================================
+           FOOTER
+      ========================================== -->
+
+      <footer class="footer">
+
+        Designed with ❤️ by
+        <span>Dwi Septiyana</span>
+
+      </footer>
+
+    </main>
+
+  </div>
+
+  <!-- SCRIPT -->
+  <script src="script.js"></script>
+
+</body>
+</html>

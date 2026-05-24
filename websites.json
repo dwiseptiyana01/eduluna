@@ -1,0 +1,1403 @@
+[
+  {
+    "name":"Kahoot!",
+    "category":"Game Edukasi",
+    "description":"Platform kuis interaktif untuk pembelajaran menyenangkan.",
+    "image":"assets/icons/kahoot.png",
+    "url":"https://kahoot.com"
+  },
+
+  {
+    "name":"Wayground",
+    "category":"Kuis Interaktif",
+    "description":"Game kuis online interaktif untuk kelas digital.",
+    "image":"assets/icons/wayground.png",
+    "url":"https://wayground.com/?lng=en"
+  },
+
+  {
+    "name":"Blooket",
+    "category":"Game Edukasi",
+    "description":"Game edukasi modern berbasis kompetisi.",
+    "image":"assets/icons/blooket.png",
+    "url":"https://blooket.com"
+  },
+
+  {
+    "name":"Canva",
+    "category":"Desain",
+    "description":"Platform desain pembelajaran modern dan kreatif.",
+    "image":"assets/icons/canva.png",
+    "url":"https://canva.com"
+  },
+
+  {
+    "name":"Scratch",
+    "category":"Coding Anak",
+    "description":"Belajar coding visual untuk anak-anak.",
+    "image":"assets/icons/scratch.png",
+    "url":"https://scratch.mit.edu"
+  },
+
+  {
+    "name":"Code.org",
+    "category":"Coding Anak",
+    "description":"Belajar coding interaktif untuk siswa dan guru.",
+    "image":"assets/icons/codeorg.png",
+    "url":"https://code.org"
+  },
+
+  {
+    "name":"Wordwall",
+    "category":"Game Edukasi",
+    "description":"Membuat permainan edukatif interaktif.",
+    "image":"assets/icons/wordwall.png",
+    "url":"https://wordwall.net"
+  },
+
+  {
+    "name":"Liveworksheet",
+    "category":"Worksheet",
+    "description":"Worksheet digital interaktif untuk siswa.",
+    "image":"assets/icons/liveworksheet.png",
+    "url":"https://liveworksheets.com"
+  },
+
+  {
+    "name":"Canva Education",
+    "category":"Desain",
+    "description":"Desain presentasi dan media pembelajaran.",
+    "image":"assets/icons/canvaedu.png",
+    "url":"https://canva.com/education"
+  },
+
+  {
+    "name":"PhET",
+    "category":"Sains",
+    "description":"Simulasi sains dan matematika interaktif.",
+    "image":"assets/icons/phet.png",
+    "url":"https://phet.colorado.edu"
+  },
+
+  {
+    "name":"GeoGebra",
+    "category":"Matematika",
+    "description":"Visualisasi matematika interaktif.",
+    "image":"assets/icons/geogebra.png",
+    "url":"https://geogebra.org"
+  },
+
+  {
+    "name":"Prodigy",
+    "category":"Matematika",
+    "description":"Game matematika interaktif untuk siswa.",
+    "image":"assets/icons/prodigy.png",
+    "url":"https://prodigygame.com"
+  },
+
+  {
+    "name":"ReadTheory",
+    "category":"Bahasa",
+    "description":"Latihan membaca dan pemahaman bahasa.",
+    "image":"assets/icons/readtheory.png",
+    "url":"https://readtheory.org"
+  },
+
+  {
+    "name":"StoryJumper",
+    "category":"Bahasa",
+    "description":"Membuat buku cerita digital interaktif.",
+    "image":"assets/icons/storyjumper.png",
+    "url":"https://storyjumper.com"
+  },
+
+  {
+    "name":"NASA Kids",
+    "category":"Sains",
+    "description":"Belajar sains dan luar angkasa untuk anak.",
+    "image":"assets/icons/nasa.png",
+    "url":"https://spaceplace.nasa.gov"
+  },
+
+  {
+    "name":"Gimkit",
+    "category":"Game Edukasi",
+    "description":"Game kuis kelas modern dengan sistem poin dan power up.",
+    "image":"assets/icons/gimkit.png",
+    "url":"https://gimkit.com"
+  },
+
+  {
+    "name":"Baamboozle",
+    "category":"Game Edukasi",
+    "description":"Permainan kelas interaktif untuk pembelajaran kelompok.",
+    "image":"assets/icons/baamboozle.png",
+    "url":"https://baamboozle.com"
+  },
+
+  {
+    "name":"Educandy",
+    "category":"Game Edukasi",
+    "description":"Membuat permainan edukasi sederhana dengan cepat.",
+    "image":"assets/icons/educandy.png",
+    "url":"https://educandy.com"
+  },
+
+  {
+    "name":"ABCya",
+    "category":"Game Edukasi",
+    "description":"Game edukatif untuk siswa SD berbagai mata pelajaran.",
+    "image":"assets/icons/abcya.png",
+    "url":"https://abcya.com"
+  },
+
+  {
+    "name":"Toy Theater",
+    "category":"Matematika",
+    "description":"Alat manipulatif matematika interaktif untuk anak.",
+    "image":"assets/icons/toytheater.png",
+    "url":"https://toytheater.com"
+  },
+
+  {
+    "name":"Math Playground",
+    "category":"Matematika",
+    "description":"Permainan dan latihan matematika interaktif.",
+    "image":"assets/icons/mathplayground.png",
+    "url":"https://mathplayground.com"
+  },
+
+  {
+    "name":"Cool Math Games",
+    "category":"Matematika",
+    "description":"Game logika dan matematika untuk siswa.",
+    "image":"assets/icons/coolmath.png",
+    "url":"https://coolmathgames.com"
+  },
+
+  {
+    "name":"Tynker",
+    "category":"Coding Anak",
+    "description":"Belajar coding dengan game dan puzzle interaktif.",
+    "image":"assets/icons/tynker.png",
+    "url":"https://tynker.com"
+  },
+
+  {
+    "name":"Blockly Games",
+    "category":"Coding Anak",
+    "description":"Game coding berbasis block untuk pemula.",
+    "image":"assets/icons/blockly.png",
+    "url":"https://blockly.games"
+  },
+
+  {
+    "name":"Kodable",
+    "category":"Coding Anak",
+    "description":"Belajar dasar pemrograman untuk anak SD.",
+    "image":"assets/icons/kodable.png",
+    "url":"https://kodable.com"
+  },
+
+  {
+    "name":"Diffit",
+    "category":"AI Pendidikan",
+    "description":"AI untuk membuat materi pembelajaran otomatis.",
+    "image":"assets/icons/diffit.png",
+    "url":"https://diffit.me"
+  },
+
+  {
+    "name":"MagicSchool",
+    "category":"AI Pendidikan",
+    "description":"AI tools khusus guru untuk administrasi dan pembelajaran.",
+    "image":"assets/icons/magicschool.png",
+    "url":"https://magicschool.ai"
+  },
+
+  {
+    "name":"Curipod",
+    "category":"AI Pendidikan",
+    "description":"Membuat presentasi interaktif berbasis AI.",
+    "image":"assets/icons/curipod.png",
+    "url":"https://curipod.com"
+  },
+
+  {
+    "name":"Slidesgo",
+    "category":"Desain",
+    "description":"Template presentasi modern untuk pendidikan.",
+    "image":"assets/icons/slidesgo.png",
+    "url":"https://slidesgo.com"
+  },
+
+  {
+    "name":"Genially",
+    "category":"Desain",
+    "description":"Membuat media pembelajaran interaktif modern.",
+    "image":"assets/icons/genially.png",
+    "url":"https://genial.ly"
+  },
+
+  {
+    "name":"Adobe Express",
+    "category":"Desain",
+    "description":"Desain grafis dan presentasi online.",
+    "image":"assets/icons/adobeexpress.png",
+    "url":"https://adobe.com/express"
+  },
+
+
+{
+  "name":"Socrative",
+  "category":"Kuis Interaktif",
+  "description":"Kuis dan evaluasi kelas secara realtime.",
+  "image":"assets/icons/socrative.png",
+  "url":"https://socrative.com"
+},
+
+{
+  "name":"Formative",
+  "category":"Kuis Interaktif",
+  "description":"Assessment digital interaktif untuk guru.",
+  "image":"assets/icons/formative.png",
+  "url":"https://goformative.com"
+},
+
+{
+  "name":"Nearpod",
+  "category":"Kuis Interaktif",
+  "description":"Presentasi dan pembelajaran interaktif online.",
+  "image":"assets/icons/nearpod.png",
+  "url":"https://nearpod.com"
+},
+
+{
+  "name":"Quizlet",
+  "category":"Bahasa",
+  "description":"Flashcard digital untuk belajar kosakata dan konsep.",
+  "image":"assets/icons/quizlet.png",
+  "url":"https://quizlet.com"
+},
+
+{
+  "name":"Wizer",
+  "category":"Worksheet",
+  "description":"Membuat worksheet digital modern dan menarik.",
+  "image":"assets/icons/wizer.png",
+  "url":"https://wizer.me"
+},
+
+{
+  "name":"Google Arts & Culture",
+  "category":"Sains",
+  "description":"Eksplorasi museum, budaya, dan sains dunia.",
+  "image":"assets/icons/googlearts.png",
+  "url":"https://artsandculture.google.com"
+},
+
+{
+  "name":"PBS Kids",
+  "category":"Game Edukasi",
+  "description":"Game edukatif dan video pembelajaran anak.",
+  "image":"assets/icons/pbskids.png",
+  "url":"https://pbskids.org"
+},
+
+{
+  "name":"Starfall",
+  "category":"Bahasa",
+  "description":"Belajar membaca dan fonik untuk anak SD.",
+  "image":"assets/icons/starfall.png",
+  "url":"https://starfall.com"
+},
+
+{
+  "name":"Epic!",
+  "category":"Bahasa",
+  "description":"Perpustakaan digital buku anak-anak.",
+  "image":"assets/icons/epic.png",
+  "url":"https://getepic.com"
+},
+
+{
+  "name":"Brilliant",
+  "category":"Matematika",
+  "description":"Belajar matematika dan logika interaktif.",
+  "image":"assets/icons/brilliant.png",
+  "url":"https://brilliant.org"
+},
+
+{
+  "name":"Desmos",
+  "category":"Matematika",
+  "description":"Kalkulator grafik dan aktivitas matematika.",
+  "image":"assets/icons/desmos.png",
+  "url":"https://desmos.com"
+},
+
+{
+  "name":"Scratch Jr",
+  "category":"Coding Anak",
+  "description":"Belajar coding dasar untuk anak usia dini.",
+  "image":"assets/icons/scratchjr.png",
+  "url":"https://scratchjr.org"
+},
+
+{
+  "name":"Replit",
+  "category":"Coding Anak",
+  "description":"Coding online langsung dari browser.",
+  "image":"assets/icons/replit.png",
+  "url":"https://replit.com"
+},
+
+{
+  "name":"Thunkable",
+  "category":"Coding Anak",
+  "description":"Membuat aplikasi mobile tanpa coding rumit.",
+  "image":"assets/icons/thunkable.png",
+  "url":"https://thunkable.com"
+},
+
+{
+  "name":"ChatGPT",
+  "category":"AI Pendidikan",
+  "description":"AI asisten pembelajaran dan administrasi guru.",
+  "image":"assets/icons/chatgpt.png",
+  "url":"https://chat.openai.com"
+},
+
+{
+  "name":"Prezi",
+  "category":"Desain",
+  "description":"Presentasi interaktif dengan efek zoom modern.",
+  "image":"assets/icons/prezi.png",
+  "url":"https://prezi.com"
+},
+
+{
+  "name":"Powtoon",
+  "category":"Desain",
+  "description":"Membuat video animasi pembelajaran.",
+  "image":"assets/icons/powtoon.png",
+  "url":"https://powtoon.com"
+},
+
+{
+  "name":"Animaker",
+  "category":"Desain",
+  "description":"Membuat video dan animasi edukatif online.",
+  "image":"assets/icons/animaker.png",
+  "url":"https://animaker.com"
+},
+
+{
+  "name":"BBC Bitesize",
+  "category":"Sains",
+  "description":"Materi pembelajaran interaktif berbagai mata pelajaran.",
+  "image":"assets/icons/bbcbitesize.png",
+  "url":"https://bbc.co.uk/bitesize"
+},
+
+{
+  "name":"Science Bob",
+  "category":"Sains",
+  "description":"Eksperimen sains sederhana dan menyenangkan.",
+  "image":"assets/icons/sciencebob.png",
+  "url":"https://sciencebob.com"
+},
+
+{
+  "name":"HowStuffWorks",
+  "category":"Sains",
+  "description":"Penjelasan ilmiah tentang cara kerja berbagai hal.",
+  "image":"assets/icons/howstuffworks.png",
+  "url":"https://howstuffworks.com"
+},
+
+{
+  "name":"Raz Kids",
+  "category":"Bahasa",
+  "description":"Perpustakaan digital membaca untuk siswa.",
+  "image":"assets/icons/razkids.png",
+  "url":"https://raz-kids.com"
+},
+
+{
+  "name":"Storyline Online",
+  "category":"Bahasa",
+  "description":"Video membaca cerita anak interaktif.",
+  "image":"assets/icons/storyline.png",
+  "url":"https://storylineonline.net"
+},
+
+{
+  "name":"Education.com",
+  "category":"Worksheet",
+  "description":"Worksheet, game, dan aktivitas belajar untuk siswa SD.",
+  "image":"assets/icons/educationcom.png",
+  "url":"https://education.com"
+},
+
+{
+  "name":"TeacherPayTeachers",
+  "category":"Worksheet",
+  "description":"Marketplace worksheet dan bahan ajar guru.",
+  "image":"assets/icons/tpt.png",
+  "url":"https://teacherspayteachers.com"
+},
+
+{
+  "name":"Super Teacher Worksheets",
+  "category":"Worksheet",
+  "description":"Worksheet printable untuk berbagai mata pelajaran.",
+  "image":"assets/icons/superteacher.png",
+  "url":"https://superteacherworksheets.com"
+},
+
+{
+  "name":"DragonBox",
+  "category":"Matematika",
+  "description":"Belajar matematika melalui game interaktif.",
+  "image":"assets/icons/dragonbox.png",
+  "url":"https://dragonbox.com"
+},
+
+{
+  "name":"Khan Academy",
+  "category":"Matematika",
+  "description":"Belajar matematika gratis dari dasar hingga lanjut.",
+  "image":"assets/icons/khanacademy.png",
+  "url":"https://khanacademy.org"
+},
+
+{
+  "name":"CodeHS",
+  "category":"Coding Anak",
+  "description":"Belajar coding dan ilmu komputer online.",
+  "image":"assets/icons/codehs.png",
+  "url":"https://codehs.com"
+},
+
+{
+  "name":"Grasshopper",
+  "category":"Coding Anak",
+  "description":"Belajar JavaScript dasar dengan latihan interaktif.",
+  "image":"assets/icons/grasshopper.png",
+  "url":"https://grasshopper.app"
+},
+
+{
+  "name":"Gemini",
+  "category":"AI Pendidikan",
+  "description":"AI multimodal untuk pembelajaran digital.",
+  "image":"assets/icons/gemini.png",
+  "url":"https://gemini.google.com"
+},
+
+{
+  "name":"Padlet",
+  "category":"Desain",
+  "description":"Kolaborasi ide dan pembelajaran visual online.",
+  "image":"assets/icons/padlet.png",
+  "url":"https://padlet.com"
+},
+
+{
+  "name":"Wakelet",
+  "category":"Desain",
+  "description":"Mengumpulkan materi belajar digital dalam satu tempat.",
+  "image":"assets/icons/wakelet.png",
+  "url":"https://wakelet.com"
+},
+
+{
+  "name":"ClassDojo",
+  "category":"AI Pendidikan",
+  "description":"Manajemen kelas digital dan komunikasi orang tua.",
+  "image":"assets/icons/classdojo.png",
+  "url":"https://classdojo.com"
+},
+
+{
+  "name":"Edpuzzle",
+  "category":"AI Pendidikan",
+  "description":"Membuat video pembelajaran interaktif.",
+  "image":"assets/icons/edpuzzle.png",
+  "url":"https://edpuzzle.com"
+},
+
+{
+  "name":"Flip",
+  "category":"AI Pendidikan",
+  "description":"Diskusi video interaktif untuk kelas.",
+  "image":"assets/icons/flip.png",
+  "url":"https://flip.com"
+},
+
+{
+  "name":"Pear Deck",
+  "category":"Kuis Interaktif",
+  "description":"Presentasi interaktif untuk kelas digital.",
+  "image":"assets/icons/peardeck.png",
+  "url":"https://peardeck.com"
+},
+
+{
+  "name":"Mentimeter",
+  "category":"Kuis Interaktif",
+  "description":"Polling dan kuis realtime interaktif.",
+  "image":"assets/icons/mentimeter.png",
+  "url":"https://mentimeter.com"
+},
+
+{
+  "name":"Poll Everywhere",
+  "category":"Kuis Interaktif",
+  "description":"Membuat polling dan evaluasi kelas realtime.",
+  "image":"assets/icons/polleverywhere.png",
+  "url":"https://polleverywhere.com"
+},
+
+{
+  "name":"BookWidgets",
+  "category":"Worksheet",
+  "description":"Membuat worksheet dan kuis interaktif.",
+  "image":"assets/icons/bookwidgets.png",
+  "url":"https://bookwidgets.com"
+},
+
+{
+  "name":"TeacherMade",
+  "category":"Worksheet",
+  "description":"Mengubah PDF menjadi worksheet interaktif.",
+  "image":"assets/icons/teachermade.png",
+  "url":"https://teachermade.com"
+},
+
+{
+  "name":"WordMint",
+  "category":"Worksheet",
+  "description":"Membuat crossword dan puzzle edukasi otomatis.",
+  "image":"assets/icons/wordmint.png",
+  "url":"https://wordmint.com"
+},
+
+{
+  "name":"PuzzleMaker",
+  "category":"Worksheet",
+  "description":"Generator puzzle edukasi untuk guru.",
+  "image":"assets/icons/puzzlemaker.png",
+  "url":"https://puzzlemaker.discoveryeducation.com"
+},
+
+{
+  "name":"CommonLit",
+  "category":"Bahasa",
+  "description":"Materi membaca dan literasi digital gratis.",
+  "image":"assets/icons/commonlit.png",
+  "url":"https://commonlit.org"
+},
+
+{
+  "name":"TypingClub",
+  "category":"Coding Anak",
+  "description":"Belajar mengetik cepat untuk siswa.",
+  "image":"assets/icons/typingclub.png",
+  "url":"https://typingclub.com"
+},
+
+{
+  "name":"NitroType",
+  "category":"Coding Anak",
+  "description":"Belajar mengetik melalui game balapan.",
+  "image":"assets/icons/nitrotype.png",
+  "url":"https://nitrotype.com"
+},
+
+{
+  "name":"TurtleDiary",
+  "category":"Game Edukasi",
+  "description":"Game edukatif matematika dan bahasa.",
+  "image":"assets/icons/turtlediary.png",
+  "url":"https://turtlediary.com"
+},
+
+{
+  "name":"GeoGuessr",
+  "category":"Game Edukasi",
+  "description":"Belajar geografi melalui permainan lokasi dunia.",
+  "image":"assets/icons/geoguessr.png",
+  "url":"https://geoguessr.com"
+},
+
+{
+  "name":"Flippity",
+  "category":"Game Edukasi",
+  "description":"Mengubah Google Sheets menjadi game edukatif.",
+  "image":"assets/icons/flippity.png",
+  "url":"https://flippity.net"
+},
+
+{
+  "name":"Arcademics",
+  "category":"Game Edukasi",
+  "description":"Game edukasi cepat dan kompetitif untuk kelas.",
+  "image":"assets/icons/arcademics.png",
+  "url":"https://arcademics.com"
+},
+
+{
+  "name":"Legends of Learning",
+  "category":"Game Edukasi",
+  "description":"Game pembelajaran sains dan matematika.",
+  "image":"assets/icons/legendsoflearning.png",
+  "url":"https://legendsoflearning.com"
+},
+
+{
+  "name":"Hooda Math",
+  "category":"Matematika",
+  "description":"Game matematika dan logika online.",
+  "image":"assets/icons/hoodamath.png",
+  "url":"https://hoodamath.com"
+},
+
+{
+  "name":"Mangahigh",
+  "category":"Matematika",
+  "description":"Platform matematika berbasis game.",
+  "image":"assets/icons/mangahigh.png",
+  "url":"https://mangahigh.com"
+},
+
+{
+  "name":"Whiteboard.fi",
+  "category":"Matematika",
+  "description":"Whiteboard digital realtime untuk pembelajaran.",
+  "image":"assets/icons/whiteboardfi.png",
+  "url":"https://whiteboard.fi"
+},
+
+{
+  "name":"Reflex Math",
+  "category":"Matematika",
+  "description":"Melatih kemampuan matematika dasar secara interaktif.",
+  "image":"assets/icons/reflexmath.png",
+  "url":"https://reflexmath.com"
+},
+
+{
+  "name":"Zearn",
+  "category":"Matematika",
+  "description":"Pembelajaran matematika berbasis kurikulum.",
+  "image":"assets/icons/zearn.png",
+  "url":"https://zearn.org"
+},
+
+{
+  "name":"Numberblocks",
+  "category":"Matematika",
+  "description":"Belajar angka dan matematika dasar untuk anak.",
+  "image":"assets/icons/numberblocks.png",
+  "url":"https://numberblocks.co.uk"
+},
+
+{
+  "name":"CS First",
+  "category":"Coding Anak",
+  "description":"Program coding gratis dari Google untuk siswa.",
+  "image":"assets/icons/csfirst.png",
+  "url":"https://csfirst.withgoogle.com"
+},
+
+{
+  "name":"Roblox Studio",
+  "category":"Coding Anak",
+  "description":"Membuat game dan belajar scripting Roblox.",
+  "image":"assets/icons/robloxstudio.png",
+  "url":"https://create.roblox.com"
+},
+
+{
+  "name":"Hopscotch",
+  "category":"Coding Anak",
+  "description":"Belajar coding dan membuat game sederhana.",
+  "image":"assets/icons/hopscotch.png",
+  "url":"https://gethopscotch.com"
+},
+
+{
+  "name":"CodeCombat",
+  "category":"Coding Anak",
+  "description":"Belajar coding melalui game petualangan.",
+  "image":"assets/icons/codecombat.png",
+  "url":"https://codecombat.com"
+},
+
+{
+  "name":"Bitsbox",
+  "category":"Coding Anak",
+  "description":"Belajar membuat aplikasi sederhana untuk anak.",
+  "image":"assets/icons/bitsbox.png",
+  "url":"https://bitsbox.com"
+},
+
+{
+  "name":"MakeCode",
+  "category":"Coding Anak",
+  "description":"Platform coding visual untuk micro:bit dan Minecraft.",
+  "image":"assets/icons/makecode.png",
+  "url":"https://makecode.com"
+},
+
+{
+  "name":"Brisk Teaching",
+  "category":"AI Pendidikan",
+  "description":"AI extension untuk membantu guru mengajar.",
+  "image":"assets/icons/briskteaching.png",
+  "url":"https://briskteaching.com"
+},
+
+{
+  "name":"TeacherMatic",
+  "category":"AI Pendidikan",
+  "description":"AI pembuat administrasi dan perangkat ajar.",
+  "image":"assets/icons/teachermatic.png",
+  "url":"https://teachermatic.com"
+},
+
+{
+  "name":"TeacherBot",
+  "category":"AI Pendidikan",
+  "description":"AI assistant untuk guru membuat materi ajar.",
+  "image":"assets/icons/teacherbot.png",
+  "url":"https://teacherbot.io"
+},
+
+{
+  "name":"Lumio",
+  "category":"AI Pendidikan",
+  "description":"Pembelajaran interaktif berbasis SMART.",
+  "image":"assets/icons/lumio.png",
+  "url":"https://lumio.smarttech.com"
+},
+
+{
+  "name":"Miro",
+  "category":"Desain",
+  "description":"Kolaborasi visual dan brainstorming online.",
+  "image":"assets/icons/miro.png",
+  "url":"https://miro.com"
+},
+
+{
+  "name":"Canva Whiteboard",
+  "category":"Desain",
+  "description":"Whiteboard digital kolaboratif online.",
+  "image":"assets/icons/canvawhiteboard.png",
+  "url":"https://canva.com"
+},
+
+{
+  "name":"Buncee",
+  "category":"Desain",
+  "description":"Membuat media pembelajaran visual interaktif.",
+  "image":"assets/icons/buncee.png",
+  "url":"https://buncee.com"
+},
+
+{
+  "name":"Sutori",
+  "category":"Desain",
+  "description":"Membuat timeline dan presentasi interaktif.",
+  "image":"assets/icons/sutori.png",
+  "url":"https://sutori.com"
+},
+
+{
+  "name":"Explorer Academy",
+  "category":"Sains",
+  "description":"Eksplorasi ilmu pengetahuan dan petualangan.",
+  "image":"assets/icons/exploreracademy.png",
+  "url":"https://exploreracademy.com"
+},
+
+{
+  "name":"EarthCam",
+  "category":"Sains",
+  "description":"Menjelajahi dunia melalui live camera online.",
+  "image":"assets/icons/earthcam.png",
+  "url":"https://earthcam.com"
+},
+
+{
+  "name":"SciShow Kids",
+  "category":"Sains",
+  "description":"Video sains edukatif dan menyenangkan untuk anak.",
+  "image":"assets/icons/scishowkids.png",
+  "url":"https://youtube.com/scishowkids"
+},
+
+{
+  "name":"Mystery Science Mini Lessons",
+  "category":"Sains",
+  "description":"Pelajaran sains singkat dan menarik.",
+  "image":"assets/icons/mysterymini.png",
+  "url":"https://mysteryscience.com"
+},
+
+{
+  "name":"Read Along",
+  "category":"Bahasa",
+  "description":"AI membaca interaktif dari Google.",
+  "image":"assets/icons/readalong.png",
+  "url":"https://readalong.google"
+},
+
+{
+  "name":"WordHippo",
+  "category":"Bahasa",
+  "description":"Kamus sinonim dan pembelajaran kosakata.",
+  "image":"assets/icons/wordhippo.png",
+  "url":"https://wordhippo.com"
+},
+
+{
+  "name":"Rewordify",
+  "category":"Bahasa",
+  "description":"Menyederhanakan teks bahasa Inggris otomatis.",
+  "image":"assets/icons/rewordify.png",
+  "url":"https://rewordify.com"
+},
+
+{
+  "name":"Book Creator",
+  "category":"Bahasa",
+  "description":"Membuat buku digital kreatif bersama siswa.",
+  "image":"assets/icons/bookcreator.png",
+  "url":"https://bookcreator.com"
+},
+
+{
+  "name":"PebbleGo",
+  "category":"Bahasa",
+  "description":"Ensiklopedia digital interaktif untuk anak.",
+  "image":"assets/icons/pebblego.png",
+  "url":"https://pebblego.com"
+},
+
+{
+  "name":"Seussville",
+  "category":"Bahasa",
+  "description":"Aktivitas membaca dan bahasa untuk anak.",
+  "image":"assets/icons/seussville.png",
+  "url":"https://seussville.com"
+},
+
+{
+  "name":"Lingokids",
+  "category":"Bahasa",
+  "description":"Belajar bahasa Inggris untuk anak-anak.",
+  "image":"assets/icons/lingokids.png",
+  "url":"https://lingokids.com"
+},
+
+{
+  "name":"Oxford Owl",
+  "category":"Bahasa",
+  "description":"Sumber belajar membaca dan bahasa Inggris.",
+  "image":"assets/icons/oxfordowl.png",
+  "url":"https://oxfordowl.co.uk"
+},
+
+{
+  "name":"VocabularySpellingCity",
+  "category":"Bahasa",
+  "description":"Latihan kosakata dan spelling online.",
+  "image":"assets/icons/spellingcity.png",
+  "url":"https://spellingcity.com"
+},
+
+{
+  "name":"Prodigy English",
+  "category":"Bahasa",
+  "description":"Belajar bahasa Inggris melalui game interaktif.",
+  "image":"assets/icons/prodigyenglish.png",
+  "url":"https://prodigygame.com/main-en"
+},
+
+{
+  "name":"Reading Eggs",
+  "category":"Bahasa",
+  "description":"Belajar membaca dan fonik untuk anak-anak.",
+  "image":"assets/icons/readingeggs.png",
+  "url":"https://readingeggs.com"
+},
+
+{
+  "name":"Mathigon",
+  "category":"Matematika",
+  "description":"Platform matematika visual dan interaktif.",
+  "image":"assets/icons/mathigon.png",
+  "url":"https://mathigon.org"
+},
+
+{
+  "name":"Math Antics",
+  "category":"Matematika",
+  "description":"Video pembelajaran matematika sederhana dan menarik.",
+  "image":"assets/icons/mathantics.png",
+  "url":"https://mathantics.com"
+},
+
+{
+  "name":"SplashLearn",
+  "category":"Matematika",
+  "description":"Platform matematika interaktif untuk SD.",
+  "image":"assets/icons/splashlearn.png",
+  "url":"https://splashlearn.com"
+},
+
+{
+  "name":"Math Is Fun",
+  "category":"Matematika",
+  "description":"Belajar matematika dengan penjelasan sederhana.",
+  "image":"assets/icons/mathisfun.png",
+  "url":"https://mathsisfun.com"
+},
+
+{
+  "name":"Coolmath4Kids",
+  "category":"Matematika",
+  "description":"Belajar matematika dasar untuk anak-anak.",
+  "image":"assets/icons/coolmath4kids.png",
+  "url":"https://coolmath4kids.com"
+},
+
+{
+  "name":"RoomRecess",
+  "category":"Game Edukasi",
+  "description":"Game edukasi gratis untuk siswa SD.",
+  "image":"assets/icons/roomrecess.png",
+  "url":"https://roomrecess.com"
+},
+
+{
+  "name":"Funbrain",
+  "category":"Game Edukasi",
+  "description":"Game membaca dan matematika interaktif.",
+  "image":"assets/icons/funbrain.png",
+  "url":"https://funbrain.com"
+},
+
+{
+  "name":"PrimaryGames",
+  "category":"Game Edukasi",
+  "description":"Game edukasi dan aktivitas anak SD.",
+  "image":"assets/icons/primarygames.png",
+  "url":"https://primarygames.com"
+},
+
+{
+  "name":"LearningApps",
+  "category":"Game Edukasi",
+  "description":"Membuat aktivitas pembelajaran interaktif sederhana.",
+  "image":"assets/icons/learningapps.png",
+  "url":"https://learningapps.org"
+},
+
+{
+  "name":"TinyTap",
+  "category":"Game Edukasi",
+  "description":"Game belajar interaktif untuk anak usia dini.",
+  "image":"assets/icons/tinytap.png",
+  "url":"https://tinytap.com"
+},
+
+{
+  "name":"ABCmouse",
+  "category":"Game Edukasi",
+  "description":"Platform belajar interaktif lengkap untuk anak.",
+  "image":"assets/icons/abcmouse.png",
+  "url":"https://abcmouse.com"
+},
+
+{
+  "name":"CodeMonkey",
+  "category":"Coding Anak",
+  "description":"Belajar coding melalui game petualangan.",
+  "image":"assets/icons/codemonkey.png",
+  "url":"https://codemonkey.com"
+},
+
+{
+  "name":"CodeSpark",
+  "category":"Coding Anak",
+  "description":"Belajar coding melalui puzzle dan game.",
+  "image":"assets/icons/codespark.png",
+  "url":"https://codespark.com"
+},
+
+{
+  "name":"MIT App Inventor",
+  "category":"Coding Anak",
+  "description":"Membuat aplikasi Android dengan block coding.",
+  "image":"assets/icons/appinventor.png",
+  "url":"https://appinventor.mit.edu"
+},
+
+{
+  "name":"Microbit",
+  "category":"Coding Anak",
+  "description":"Coding dan elektronik sederhana untuk siswa.",
+  "image":"assets/icons/microbit.png",
+  "url":"https://microbit.org"
+},
+
+{
+  "name":"Eduaide",
+  "category":"AI Pendidikan",
+  "description":"AI assistant untuk guru dan pembelajaran.",
+  "image":"assets/icons/eduaide.png",
+  "url":"https://eduaide.ai"
+},
+
+{
+  "name":"Gamma",
+  "category":"AI Pendidikan",
+  "description":"Membuat presentasi otomatis berbasis AI.",
+  "image":"assets/icons/gamma.png",
+  "url":"https://gamma.app"
+},
+
+{
+  "name":"QuestionWell",
+  "category":"AI Pendidikan",
+  "description":"AI generator soal pembelajaran otomatis.",
+  "image":"assets/icons/questionwell.png",
+  "url":"https://questionwell.org"
+},
+
+{
+  "name":"SchoolAI",
+  "category":"AI Pendidikan",
+  "description":"AI assistant untuk aktivitas kelas digital.",
+  "image":"assets/icons/schoolai.png",
+  "url":"https://schoolai.com"
+},
+
+{
+  "name":"Visme",
+  "category":"Desain",
+  "description":"Desain infografis dan presentasi edukatif.",
+  "image":"assets/icons/visme.png",
+  "url":"https://visme.co"
+},
+
+{
+  "name":"Figma",
+  "category":"Desain",
+  "description":"Kolaborasi desain modern berbasis cloud.",
+  "image":"assets/icons/figma.png",
+  "url":"https://figma.com"
+},
+
+{
+  "name":"Beautiful.ai",
+  "category":"Desain",
+  "description":"Presentasi modern otomatis dan profesional.",
+  "image":"assets/icons/beautifulai.png",
+  "url":"https://beautiful.ai"
+},
+
+{
+  "name":"Piktochart",
+  "category":"Desain",
+  "description":"Membuat infografis dan media visual edukasi.",
+  "image":"assets/icons/piktochart.png",
+  "url":"https://piktochart.com"
+},
+
+{
+  "name":"NatGeo Education",
+  "category":"Sains",
+  "description":"Sumber pembelajaran geografi dan sains.",
+  "image":"assets/icons/natgeoedu.png",
+  "url":"https://education.nationalgeographic.org"
+},
+
+{
+  "name":"Exploratorium",
+  "category":"Sains",
+  "description":"Eksperimen dan aktivitas sains interaktif.",
+  "image":"assets/icons/exploratorium.png",
+  "url":"https://exploratorium.edu"
+},
+
+{
+  "name":"Earth School",
+  "category":"Sains",
+  "description":"Belajar lingkungan dan bumi secara interaktif.",
+  "image":"assets/icons/earthschool.png",
+  "url":"https://earthisland.org"
+},
+
+{
+  "name":"CK-12",
+  "category":"Sains",
+  "description":"Pembelajaran STEM interaktif gratis.",
+  "image":"assets/icons/ck12.png",
+  "url":"https://ck12.org"
+},
+
+{
+  "name":"BrainPOP",
+  "category":"Sains",
+  "description":"Video animasi edukasi untuk berbagai mata pelajaran.",
+  "image":"assets/icons/brainpop.png",
+  "url":"https://brainpop.com"
+},
+
+{
+  "name":"Science Kids",
+  "category":"Sains",
+  "description":"Eksperimen dan fakta sains menarik untuk anak.",
+  "image":"assets/icons/sciencekids.png",
+  "url":"https://sciencekids.co.nz"
+},
+
+{
+  "name":"Kids Discover Online",
+  "category":"Sains",
+  "description":"Artikel dan aktivitas sains interaktif.",
+  "image":"assets/icons/kidsdiscoveronline.png",
+  "url":"https://kidsdiscover.com"
+},
+
+{
+  "name":"BioDigital Human",
+  "category":"Sains",
+  "description":"Visualisasi tubuh manusia 3D interaktif.",
+  "image":"assets/icons/biodigitalhuman.png",
+  "url":"https://biodigital.com"
+},
+
+{
+  "name":"Wonderopolis",
+  "category":"Sains",
+  "description":"Belajar fakta unik dan rasa ingin tahu anak.",
+  "image":"assets/icons/wonderopolis.png",
+  "url":"https://wonderopolis.org"
+},
+
+{
+  "name":"TED-Ed",
+  "category":"Sains",
+  "description":"Video edukasi animasi untuk berbagai topik.",
+  "image":"assets/icons/teded.png",
+  "url":"https://ed.ted.com"
+},
+
+{
+  "name":"Twee",
+  "category":"AI Pendidikan",
+  "description":"AI tools khusus guru bahasa Inggris.",
+  "image":"assets/icons/twee.png",
+  "url":"https://twee.com"
+},
+
+{
+  "name":"Teachy",
+  "category":"AI Pendidikan",
+  "description":"AI pembuat soal dan materi pembelajaran otomatis.",
+  "image":"assets/icons/teachy.png",
+  "url":"https://teachy.ai"
+},
+
+{
+  "name":"LessonPlans AI",
+  "category":"AI Pendidikan",
+  "description":"Membuat RPP dan modul ajar otomatis.",
+  "image":"assets/icons/lessonplansai.png",
+  "url":"https://lessonplans.ai"
+},
+
+{
+  "name":"TinyWow",
+  "category":"AI Pendidikan",
+  "description":"Tools AI gratis untuk dokumen dan gambar.",
+  "image":"assets/icons/tinywow.png",
+  "url":"https://tinywow.com"
+},
+
+{
+  "name":"EduBot",
+  "category":"AI Pendidikan",
+  "description":"AI chatbot pendidikan untuk guru dan siswa.",
+  "image":"assets/icons/edubot.png",
+  "url":"https://edubot.com"
+},
+
+{
+  "name":"Moovly",
+  "category":"Desain",
+  "description":"Membuat video presentasi edukasi online.",
+  "image":"assets/icons/moovly.png",
+  "url":"https://moovly.com"
+},
+
+{
+  "name":"Renderforest",
+  "category":"Desain",
+  "description":"Membuat video dan animasi presentasi online.",
+  "image":"assets/icons/renderforest.png",
+  "url":"https://renderforest.com"
+},
+
+{
+  "name":"VistaCreate",
+  "category":"Desain",
+  "description":"Desain grafis online modern dan sederhana.",
+  "image":"assets/icons/vistacreate.png",
+  "url":"https://create.vista.com"
+},
+
+{
+  "name":"StoryboardThat",
+  "category":"Desain",
+  "description":"Membuat storyboard dan komik edukatif.",
+  "image":"assets/icons/storyboardthat.png",
+  "url":"https://storyboardthat.com"
+},
+
+{
+  "name":"Easel.ly",
+  "category":"Desain",
+  "description":"Membuat infografis pembelajaran dengan mudah.",
+  "image":"assets/icons/easelly.png",
+  "url":"https://easel.ly"
+},
+
+{
+  "name":"Snappa",
+  "category":"Desain",
+  "description":"Desain visual cepat untuk media pembelajaran.",
+  "image":"assets/icons/snappa.png",
+  "url":"https://snappa.com"
+},
+
+{
+  "name":"Adobe Education Exchange",
+  "category":"Desain",
+  "description":"Sumber belajar kreatif dari Adobe.",
+  "image":"assets/icons/adobeedu.png",
+  "url":"https://edex.adobe.com"
+},
+
+{
+  "name":"Blooket Homework",
+  "category":"Kuis Interaktif",
+  "description":"Mode tugas interaktif untuk pembelajaran mandiri.",
+  "image":"assets/icons/blookethw.png",
+  "url":"https://blooket.com"
+},
+
+{
+  "name":"Quizalize",
+  "category":"Kuis Interaktif",
+  "description":"Kuis online dengan analitik pembelajaran.",
+  "image":"assets/icons/quizalize.png",
+  "url":"https://quizalize.com"
+},
+
+{
+  "name":"Plickers",
+  "category":"Kuis Interaktif",
+  "description":"Kuis kelas tanpa perangkat siswa.",
+  "image":"assets/icons/plickers.png",
+  "url":"https://plickers.com"
+},
+
+{
+  "name":"Sutori Classroom",
+  "category":"Kuis Interaktif",
+  "description":"Timeline pembelajaran interaktif kolaboratif.",
+  "image":"assets/icons/sutoriclass.png",
+  "url":"https://sutori.com"
+},
+
+{
+  "name":"Educaplay Live",
+  "category":"Kuis Interaktif",
+  "description":"Kuis dan aktivitas realtime interaktif.",
+  "image":"assets/icons/educaplaylive.png",
+  "url":"https://educaplay.com"
+},
+
+{
+  "name":"Liveworksheets Creator",
+  "category":"Worksheet",
+  "description":"Membuat worksheet online otomatis.",
+  "image":"assets/icons/liveworksheetcreator.png",
+  "url":"https://liveworksheets.com"
+},
+
+{
+  "name":"WorksheetWorks",
+  "category":"Worksheet",
+  "description":"Generator worksheet printable otomatis.",
+  "image":"assets/icons/worksheetworks.png",
+  "url":"https://worksheetworks.com"
+},
+
+{
+  "name":"EasyTeacher Worksheets",
+  "category":"Worksheet",
+  "description":"Worksheet gratis berbagai mata pelajaran.",
+  "image":"assets/icons/easyteacher.png",
+  "url":"https://easyteacherworksheets.com"
+},
+
+{
+  "name":"K5 Learning",
+  "category":"Worksheet",
+  "description":"Worksheet matematika dan membaca untuk SD.",
+  "image":"assets/icons/k5learning.png",
+  "url":"https://k5learning.com"
+},
+
+{
+  "name":"Education World",
+  "category":"Worksheet",
+  "description":"Sumber worksheet dan lesson plan guru.",
+  "image":"assets/icons/educationworld.png",
+  "url":"https://educationworld.com"
+},
+
+{
+  "name":"Typing.com",
+  "category":"Coding Anak",
+  "description":"Belajar mengetik dan coding dasar online.",
+  "image":"assets/icons/typingcom.png",
+  "url":"https://typing.com"
+},
+
+{
+  "name":"Construct 3",
+  "category":"Coding Anak",
+  "description":"Membuat game tanpa coding rumit.",
+  "image":"assets/icons/construct3.png",
+  "url":"https://construct.net"
+},
+
+{
+  "name":"Scratch Games",
+  "category":"Coding Anak",
+  "description":"Eksplorasi proyek coding komunitas Scratch.",
+  "image":"assets/icons/scratchgames.png",
+  "url":"https://scratch.mit.edu/explore/projects/games"
+}
+
+]
