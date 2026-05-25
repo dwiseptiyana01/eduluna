@@ -2,79 +2,48 @@
 <html lang="id">
 
 <head>
-
-  <meta charset="UTF-8">
-
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1.0"
-  >
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <title>EduLuna</title>
 
   <!-- FONT -->
-  <link
-    rel="preconnect"
-    href="https://fonts.googleapis.com"
-  >
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-  <link
-    rel="preconnect"
-    href="https://fonts.gstatic.com"
-    crossorigin
-  >
-
-  <link
-    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
-    rel="stylesheet"
-  >
+  <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
   <!-- CSS -->
-  <link
-    rel="stylesheet"
-    href="style.css"
-  >
+  <link rel="stylesheet" href="style.css" />
 
+  <!-- FAVICON -->
+  <link rel="icon" href="assets/logo/logo.png" />
 </head>
 
 <body>
-
-  <!-- =========================================
-       LAYOUT
-  ========================================== -->
 
   <div class="layout">
 
     <!-- =========================================
          SIDEBAR
-    ========================================== -->
+    ========================================= -->
 
     <aside class="sidebar">
 
       <!-- LOGO -->
+
       <div class="logo">
 
         <div class="logo-row">
 
           <img
             src="assets/logo/logo.png"
-            alt="EduLuna"
-          >
+            alt="EduLuna Logo"
+          />
 
           <div class="logo-text">
-
-            <h1>
-
-              Edu<span>Luna</span>
-
-            </h1>
-
-            <p>
-
-              Direktori Website Edukasi
-
-            </p>
-
+            <h1>Edu<span>Luna</span></h1>
+            <p>Direktori Website Edukasi</p>
           </div>
 
         </div>
@@ -82,267 +51,191 @@
       </div>
 
       <!-- MENU -->
-      <nav class="menu">
 
-        <button
-          class="menu-item active"
-          data-category="Semua"
-        >
+      <div class="menu">
+
+        <button class="menu-item active">
           Semua
         </button>
 
-        <button
-          class="menu-item"
-          data-category="Game Edukasi"
-        >
+        <button class="menu-item">
           Game Edukasi
         </button>
 
-        <button
-          class="menu-item"
-          data-category="Kuis Interaktif"
-        >
+        <button class="menu-item">
           Kuis Interaktif
         </button>
 
-        <button
-          class="menu-item"
-          data-category="Worksheet"
-        >
+        <button class="menu-item">
           Worksheet
         </button>
 
-        <button
-          class="menu-item"
-          data-category="AI Pendidikan"
-        >
+        <button class="menu-item">
           AI Pendidikan
         </button>
 
-        <button
-          class="menu-item"
-          data-category="Matematika"
-        >
+        <button class="menu-item">
           Matematika
         </button>
 
-        <button
-          class="menu-item"
-          data-category="Bahasa"
-        >
+        <button class="menu-item">
           Bahasa
         </button>
 
-        <button
-          class="menu-item"
-          data-category="Coding Anak"
-        >
+        <button class="menu-item">
           Coding Anak
         </button>
 
-        <button
-          class="menu-item"
-          data-category="Sains"
-        >
+        <button class="menu-item">
           Sains
         </button>
 
-        <button
-          class="menu-item"
-          data-category="Desain"
-        >
+        <button class="menu-item">
           Desain
         </button>
 
-      </nav>
+      </div>
 
     </aside>
 
     <!-- =========================================
          MAIN
-    ========================================== -->
+    ========================================= -->
 
     <main class="main">
 
       <!-- =========================================
            TOPBAR
-      ========================================== -->
+      ========================================= -->
 
       <div class="topbar">
 
-        <!-- SEARCH -->
         <div class="search-box">
-
           <input
             type="text"
             id="searchInput"
             placeholder="Cari website edukasi..."
-          >
-
+          />
         </div>
 
-        <!-- THEME -->
-        <button class="theme-btn">
-
+        <button class="theme-btn" id="themeToggle">
           🌙
+        </button>
 
+        <button class="favorite-page-btn" id="favoriteBtn">
+          ❤️
         </button>
 
       </div>
 
       <!-- =========================================
            HERO
-      ========================================== -->
+      ========================================= -->
 
       <section class="hero">
 
         <div class="hero-left">
 
-          <!-- BADGE -->
-          <span class="badge">
+          <div class="badge">
+            Platform Edukasi Modern
+          </div>
 
-            EduLuna Directory
-
-          </span>
-
-          <!-- TITLE -->
           <h1>
-
-            Temukan Website Edukasi Digital Modern
-
+            Temukan Website Edukasi Digital Terbaik
           </h1>
 
-          <!-- DESCRIPTION -->
           <p>
-
-            Kumpulan website edukasi,
-            AI pendidikan,
-            worksheet,
-            coding anak,
-            game belajar,
-            dan sumber belajar modern terbaik.
-
+            Jelajahi berbagai tools pembelajaran modern untuk guru,
+            siswa, coding anak, AI pendidikan, worksheet interaktif,
+            matematika, desain, dan media belajar digital.
           </p>
 
-          <!-- STATS -->
           <div class="hero-stats">
 
             <div class="stat-box">
-
-              <h3>
-
-                150+
-
-              </h3>
-
-              <span>
-
-                Website Edukasi
-
-              </span>
-
+              <h3>175+</h3>
+              <span>Website Edukasi</span>
             </div>
 
             <div class="stat-box">
-
-              <h3>
-
-                9
-
-              </h3>
-
-              <span>
-
-                Kategori
-
-              </span>
-
+              <h3>9</h3>
+              <span>Kategori</span>
             </div>
 
             <div class="stat-box">
-
-              <h3>
-
-                Tools Digital
-
-              </h3>
-
-              <span>
-
-                Terbaru
-
-              </span>
-
+              <h3>AI Ready</h3>
+              <span>Tools Digital</span>
             </div>
 
           </div>
 
         </div>
 
-        <!-- HERO IMAGE -->
-        <img
-          class="hero-image"
-          src="assets/images/hero.png"
-          alt="Hero"
-        >
-
       </section>
 
       <!-- =========================================
            FEATURED
-      ========================================== -->
+      ========================================= -->
 
       <section class="featured-section">
 
         <div class="section-header">
 
-          <h2>
-
-            Featured Websites
-
-          </h2>
-
-          <p>
-
-            Pilihan website terbaik EduLuna
-
-          </p>
+          <div>
+            <h2>Featured Websites</h2>
+            <p>Website pilihan terbaik EduLuna</p>
+          </div>
 
         </div>
 
-        <div
-          class="featured-grid"
-          id="featuredGrid"
-        ></div>
+        <div class="featured-grid" id="featuredGrid">
+
+          <!-- FEATURED CARDS -->
+
+        </div>
 
       </section>
 
       <!-- =========================================
-           WEBSITE CARDS
-      ========================================== -->
+           MAIN CARDS
+      ========================================= -->
 
-      <section
-        class="cards-grid"
-        id="cardsContainer"
-      ></section>
+      <section>
 
-      <!-- =========================================
-           PAGINATION
-      ========================================== -->
+        <div class="section-header">
 
-      <div
-        class="pagination"
-        id="pagination"
-      ></div>
+          <div>
+            <h2>Semua Website</h2>
+            <p>Temukan tools pembelajaran digital terbaik</p>
+          </div>
+
+        </div>
+
+        <!-- CARDS -->
+
+        <div class="cards-grid" id="cardsContainer">
+
+          <!-- GENERATED BY JS -->
+
+        </div>
+
+        <!-- PAGINATION -->
+
+        <div class="pagination" id="pagination">
+
+          <!-- GENERATED BY JS -->
+
+        </div>
+
+      </section>
 
       <!-- =========================================
            FOOTER
-      ========================================== -->
+      ========================================= -->
 
       <footer class="footer">
 
-        Designed with ❤️ by
-        <span>Dwi Septiyana</span>
+        Designed by <span>Dwi Septiyana</span>
 
       </footer>
 
@@ -350,8 +243,12 @@
 
   </div>
 
-  <!-- SCRIPT -->
+  <!-- =========================================
+       SCRIPT
+  ========================================= -->
+
   <script src="script.js"></script>
 
 </body>
+
 </html>
